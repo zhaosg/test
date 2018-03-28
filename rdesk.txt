@@ -1,0 +1,8 @@
+10.56.250.147
+
+dc02-rmsqas-01\administratrr
+Admin123
+
+
+10.0.43.30
+dc02\administratrr

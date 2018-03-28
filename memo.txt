@@ -1,0 +1,54 @@
+10.56.250.147
+
+dc02-rmsqas-01\administratrr
+Admin123
+
+
+10.0.43.30
+dc02\administratrr
+
+
+jultemp9
+2YOggjeC
+
+DC02-RMSQAS-01\Administratrr
+
+http://tfs.shanghai-electric.com:8080/tfs/SecCollection/RMD
+git clone http://tfs.shanghai-electric.com:8080/tfs/SecCollection/_git/RMD
+
+git clone http://tfs.shanghai-electric.com:8080/tfs/JavaCollection/_git/TSPM
+TFS开发-远程诊断项目-外部开发人员，到期时间2017-1-31
+old 赵胜过 101T0010 Zd98S7#
+new 赵胜过 101T0010 20180207ZSG#2018!
+修改hosts文件
+10.56.20.11 dc02-tfs-02
+
+http://localhost:8080/rmds-job/db/tag/LH.DCS.5.00COTAQH_S.ao
+
+有线
+pg\101T0196
+jdk%93
+
+
+http://webdev01.shanghai-electric.com/FCWWebService/services/CaseWcfService.svc?wsdl
+
+
+172.16.57.15
+
+10.0.43.31 10.0.43.32 10.0.43.34
+root Admin123
+
+
+http://dcsupport.shanghai-electric.com/sites/workstation/rmd/default.aspx
+
+
+export https_proxy=http://127.0.0.1:8118
+npm config set https-proxy http://127.0.0.1:8118
+git config https.proxy http://127.0.0.1:8118
+
+
+wangrxr@shanghai-electric.com
+
+测定查看，个人设置，版本信息
+
+itms-services://?action=download-manifest&url=https://iuat.shanghai-electric.com/uploads/rmds.plist
